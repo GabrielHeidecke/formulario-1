@@ -1,0 +1,37 @@
+form label {
+display:block;
+ font-size: 20px;
+margin: 0 0 10px;
+
+}
+
+
+form input {
+display: block;
+  margin: 0 0 20px; 
+   padding: 10px 100px;
+
+}
+
+form textarea{
+display: block;
+font-size: 20px;
+margin: 0 0 40px;
+
+}
+
+p{
+ font-size: 25px;
+}
+
+ .pagina{
+ padding: 10px 100px;
+ margin: 0 0 20px;
+  background:#363636;
+color:Gainsboro;
+
+
+
+ }
+
+
