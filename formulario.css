@@ -39,3 +39,9 @@ color:Gainsboro;
 color:Gainsboro;
 }
 
+.pagina1{
+display: inline-block;
+margin:50px 0;
+padding: 10px 200px
+background:#000080;
+}
